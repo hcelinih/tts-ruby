@@ -16,6 +16,7 @@ case todays_temperature
     puts "Let's get cozy by the fire place"
   else
   puts "What plant is this?"
+
 end
 
 # def pick_activity
